@@ -9,13 +9,380 @@ html {
     width: 100%;
     margin: 0px;
 }
-h1 {
-    margin: 0 auto;
+#iloveyou {
     width: 100%;
-    padding-top: 200px;
-    font-size: 50px;
+    background-color: rgba(67, 67, 6, 0);
+    margin: 0 auto;
+    padding: 28%;
     text-align: center;
+    font-size: 50px;
     font-family: 'Indie Flower', serif;
     font-weight: normal;
     color: rgb(245, 192, 242);
+}
+
+
+
+#topD1 {
+    position: absolute;
+    margin-left: 20px;
+    padding-top: 50px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 75px solid rgb(249, 221, 247);
+}
+#bottomD1 {
+    position: absolute;
+    margin-left: 20px;
+    padding-top: 50px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 75px solid rgb(252, 234, 251);
+}
+
+#topD2 {
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 52px solid rgb(249, 221, 247);
+}
+
+#bottomD2 {
+    position: absolute;
+    margin-left: 190px;
+    padding-top: 0px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 52px solid rgb(252, 234, 251);
+} 
+
+#topD3 {
+    position: absolute;
+    margin-left: 340px;
+    padding-top: 50px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 75px solid rgb(249, 221, 247);
+}
+
+#bottomD3 {
+    position: absolute;
+    margin-left: 340px;
+    padding-top: 50px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 75px solid rgb(252, 234, 251);
+}
+
+#topD4 {
+    position: absolute;
+    margin-left: 512px;
+    margin-top: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 52px solid rgb(249, 221, 247);
+}
+
+#bottomD4 {
+    position: absolute;
+    margin-left: 512px;
+    padding-top: 0px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 52px solid rgb(252, 234, 251);
+}
+
+#topD5 {
+    position: absolute;
+    margin-left: 660px;
+    padding-top: 50px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 75px solid rgb(249, 221, 247);
+}
+
+#bottomD5 {
+    position: absolute;
+    margin-left: 660px;
+    padding-top: 50px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 75px solid rgb(252, 234, 251);
+}
+
+#topD7 {
+    position: absolute;
+    margin-left: 980px;
+    padding-top: 50px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 75px solid rgb(249, 221, 247);
+}
+
+#bottomD7 {
+    position: absolute;
+    margin-left: 980px;
+    padding-top: 50px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 75px solid rgb(252, 234, 251);
+}
+
+#topD8 {
+    position: absolute;
+    margin-left: 1172px;
+    margin-top: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 52px solid rgb(249, 221, 247);
+}
+
+#bottomD8 {
+    position: absolute;
+    margin-left: 1172px;
+    padding-top: 0px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 52px solid rgb(252, 234, 251);
+}
+
+#topD9 {
+    position: absolute;
+    margin-left: 1320px;
+    padding-top: 50px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 75px solid rgb(249, 221, 247);
+}
+
+#bottomD9 {
+    position: absolute;
+    margin-left: 1320px;
+    padding-top: 50px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 75px solid rgb(252, 234, 251);
+}
+
+#topD10 {
+    position: absolute;
+    margin-left: 1492px;
+    margin-top: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 52px solid rgb(249, 221, 247);
+}
+
+#bottomD10 {
+    position: absolute;
+    margin-left: 1492px;
+    padding-top: 0px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 52px solid rgb(252, 234, 251);
+}
+
+#topD11 {
+    position: absolute;
+    margin-left: 1640px;
+    padding-top: 50px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 75px solid rgb(249, 221, 247);
+}
+
+#bottomD11 {
+    position: absolute;
+    margin-left: 1640px;
+    padding-top: 50px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 75px solid rgb(252, 234, 251);
+}
+
+#topD12 {
+    position: absolute;
+    margin-left: 1812px;
+    margin-top: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 52px solid rgb(249, 221, 247);
+}
+
+#bottomD12 {
+    position: absolute;
+    margin-left: 1812px;
+    padding-top: 0px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 52px solid rgb(252, 234, 251);
+}
+
+#topD13 {
+    position: absolute;
+    margin-left: 1960px;
+    padding-top: 50px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 75px solid rgb(249, 221, 247);
+}
+
+#bottomD13 {
+    position: absolute;
+    margin-left: 1960px;
+    padding-top: 50px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 75px solid rgb(252, 234, 251);
+}
+
+#topD6 {
+    position: absolute;
+    margin-left: 832px;
+    margin-top: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 52px solid rgb(249, 221, 247);
+}
+#bottomD6 {
+    position: absolute;
+    margin-left: 832px;
+    padding-top: 0px;
+    margin-top: 125px;
+    margin-bottom: 100px;
+    width: 0px;
+    height: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 52px solid rgb(252, 234, 251);;
+}
+
+.blinking0 { 
+    animation: opacity 3s ease-in-out infinite;
+    opacity: 1;
+}
+
+.blinking1 { 
+    animation: opacity 5s ease-in-out infinite;
+    opacity: 1;
+}
+
+.blinking2 { 
+    animation: opacity 2s ease-in-out infinite;
+    opacity: 1;
+}
+
+.blinking3 { 
+    animation: opacity 4s ease-in-out infinite;
+    opacity: 1;
+}
+
+@keyframes opacity {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.25;
+    }
+        
+    100% {
+        opacity: 1;
+    }
+}
+
+#button1 {
+    width: 0px;
+    font-family: 'Indie Flower', serif;
+    background-color: rgb(184, 17, 172);
+    font-size: 20px;
+    float: left;
+    border-radius: 40%;
+    padding: 5px 5px;
+    border-color: 'rgb(184, 17, 172)';
+}
+
+#button2 {
+    width: 41px;
+    background-color: rgb(184, 17, 172);
+    font-size: 20px;
+    float: right;
+    border-radius: 40%;
+    margin-left: 30px;
+    padding: 20px 20px;
 }
