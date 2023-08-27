@@ -367,13 +367,13 @@ html {
 }
 
 #button1 {
+    float: left;
     width: 0px;
     font-family: 'Indie Flower', serif;
     background-color: rgb(184, 17, 172);
     font-size: 20px;
-    float: left;
     border-radius: 40%;
-    padding: 5px 5px;
+    padding: 10px 10px;
     border-color: 'rgb(184, 17, 172)';
 }
 
@@ -381,8 +381,12 @@ html {
     width: 41px;
     background-color: rgb(184, 17, 172);
     font-size: 20px;
-    float: right;
+    float: lef;
     border-radius: 40%;
     margin-left: 30px;
-    padding: 20px 20px;
+    padding: 20px 40px;
+}
+
+.audio {
+    padding: 10px;
 }
